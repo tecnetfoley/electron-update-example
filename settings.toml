@@ -1,0 +1,3 @@
+[server]
+host = "http://DESKTOP-DDVCSU6:4000"
+updatesPath = "updates"
